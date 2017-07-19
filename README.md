@@ -1,5 +1,5 @@
-# MyEtherWallet
-MyEtherWallet (v4+)
+# MEW - Gamerbits Web Wallet
+MyEtherWallet (v4+) Revised
 
 #### Run:
 
